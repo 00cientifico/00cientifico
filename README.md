@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @00cientifico
-- 👀 I’m interested in ...la ciencia y codificacion
-- 🌱 I’m currently learning ...a  programar
+- 👋 Hi, I’m @00cientifico or 00CIEN or SCP-00100
+- 👀 I’m interested in ...The reason for things, cause and effect
+- 🌱 I’m currently learning ... All
 -
-- 💞️ I’m looking to collaborate on creacion de codigos para grandes empresas de juegos
-- 📫 How to reach me ... cantactame al correo  jgomezsanchez91@gmail.com o al numero 87521802
+- 💞️ I’m looking to collaborate on Learn and teach what little one knows
+- 📫 How to reach me ... Leave me a message on my Discord https://discord.com/users/927754041084248094
 
 <!---
 00cientifico/00cientifico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
